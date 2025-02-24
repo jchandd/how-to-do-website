@@ -38,3 +38,13 @@
   grid-row: 5/6;
   background-color: blueviolet;
 }
+li a:hover:not(.active) {
+  background-color: #1a1818;
+}
+
+.active {
+  background-color: #04AA6D;
+
+
+
+}
