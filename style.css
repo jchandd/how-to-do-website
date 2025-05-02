@@ -55,11 +55,11 @@ text-decoration: none;
 }
 
 li a.active {
-background-color: #04AA6D;
+background-color: #00f9b2;
 color: white;
 }
 
 li a:hover:not(.active) {
-background-color: #555;
+background-color: #92c9eb79;
 color: white;
 }
